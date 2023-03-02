@@ -68,6 +68,7 @@ static bool run()
 			scanf("%s %s", mCompany1, mCompany2);
 			ret = conflict(mCompany1, mCompany2);
 			scanf("%d", &ans);
+			// printf("Ans : %d | Me : %d \n", ans, ret);
 			if (ret != ans)
 				okay = false;
 			break;
