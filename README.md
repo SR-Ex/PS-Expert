@@ -1,2 +1,2 @@
-# PS-Pro
-SW Certificate Pro Study
+# PS-Expert
+SW Certificate Expert Study
